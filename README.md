@@ -1,0 +1,2 @@
+# wordpress-base
+theme blanc
